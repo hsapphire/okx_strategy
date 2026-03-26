@@ -29,7 +29,7 @@ chat_id="你的CHAT_ID"
 ### 3. 运行
 
 ```bash
-cd /Users/chunbohe/projects/code/okx-agent
+cd ~/okx-agent
 python3 run_trader.py
 ```
 
