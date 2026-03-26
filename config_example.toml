@@ -1,0 +1,18 @@
+default_profile="demo"
+
+[profiles.live]
+pi_key="your-live-api-key"
+secret_key="your-live-secret-key"
+passphrase="your-live-passphrase"
+
+[profiles.demo]
+api_key=""
+secret_key=""
+passphrase=""
+demo=true
+
+[telegram]
+# 从 @BotFather 获取 Bot Token
+bot_token=""
+# 从 @userinfobot 获取 Chat ID
+chat_id=""
